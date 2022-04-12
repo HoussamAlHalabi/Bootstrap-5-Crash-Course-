@@ -1,0 +1,14 @@
+[class*="col"] {
+  padding: 1rem;
+  background-color: blue;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+}
+
+.child {
+  background-color: #566ed7;
+}
